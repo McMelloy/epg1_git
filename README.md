@@ -1,4 +1,5 @@
 # Git homework
+
 - Create a fork of this repository
 - Clone your fork
 - Create a branch named hw-\<student number> (should point to master)
@@ -11,4 +12,9 @@
 - Create Pull Request from your branch to this repository's master branch
 
 ## Rebase documentation
+
 <https://git-scm.com/docs/git-rebase>
+
+## Merge documentation
+
+<https://git-scm.com/docs/git-merge>
