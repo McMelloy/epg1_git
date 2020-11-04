@@ -1,0 +1,10 @@
+git clone https://github.com/McMelloy/epg1_git.git
+git branch hw-19136
+git checkout rebase-me
+git rebase hw-19136
+git checkout hw-19136
+git merge rebase-me
+git merge origin/merge-me
+code README.md
+git add *
+git commit
